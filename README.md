@@ -7,10 +7,14 @@ Research Note, both flat in the vault's shared `Research/` folder, using
 Charted Roots' `cr_type` frontmatter so the project shows up in existing
 Bases views immediately.
 
-Adapted from the design in Steve Little's
-[Genealogy AI Starter Workspace](https://github.com/DigitalArchivst/Open-Genealogy),
-reworked to avoid duplicating files that Charted Roots already handles
-vault-wide (sources, GPS methodology instructions, templates).
+Adapted from the design of the
+[`gra` skill](https://github.com/DigitalArchivst/Open-Genealogy/tree/main/skills/gra)
+in Steve Little's [Open-Genealogy](https://github.com/DigitalArchivst/Open-Genealogy)
+(Genealogy AI Starter Workspace), reworked to avoid duplicating files that
+Charted Roots already handles vault-wide (sources, GPS methodology
+instructions, templates). All credit for the original project structure
+and GPS-aligned research workflow goes to Steve Little/DigitalArchivst -
+this skill only adapts it for Charted Roots vaults.
 
 ## Requirements
 

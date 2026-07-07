@@ -17,7 +17,7 @@ description: >-
 license: CC-BY-NC-SA-4.0
 metadata:
   version: "1.0.0"
-  adapted_from: "Steve Little's Genealogy AI Starter Workspace (github.com/DigitalArchivst/Open-Genealogy)"
+  adapted_from: "Steve Little's `gra` skill in the Genealogy AI Starter Workspace (github.com/DigitalArchivst/Open-Genealogy/tree/main/skills/gra)"
   compatibility: "Obsidian vault with the Charted Roots plugin; Templates/GRA/ templates installed"
 ---
 
